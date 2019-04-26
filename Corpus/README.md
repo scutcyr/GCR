@@ -2,7 +2,10 @@
 
 Thanks for https://github.com/codemayq/chinese_chatbot_corpus
 
-# 数据来源及说明
+## 语料汇总
+下载语料 https://pan.baidu.com/s/1szmNZQrwh9y994uO8DFL_A  提取码：f2ex
+
+## 数据来源及说明
 语料名称 | 语料数量 | 语料来源说明 | 语料特点 | 语料样例 | 是否已分词
 ---|---|---|---|---|---
 chatterbot | 560 | 开源项目 | 按类型分类，质量较高  | Q:你会开心的 A:幸福不是真正的可预测的情绪。 | 否
