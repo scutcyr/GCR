@@ -12,7 +12,7 @@ GCR: Group Chat Robot.
 - We will provide the pre-processed data, as can be downloaded from url: https://github.com/scutcyr/GCR/blob/master/Corpus
 
 ## Acknowledgement
-[华南理工大学](http://www.scut.edu.cn/)
-广东省人体数据科学工程技术研究中心
-广州市人体数据科学重点实验室
+- [South China University of Technology](http://www.scut.edu.cn/)
+- 广东省人体数据科学工程技术研究中心
+- 广州市人体数据科学重点实验室
 
