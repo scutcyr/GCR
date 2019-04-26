@@ -5,7 +5,12 @@ This is the undergraduate graduation design project of Yirong Chen.
 GCR: Group Chat Robot.
 
 
-
+## Requirement
+- torch >= 1.0.0
+- pandas
+- numpy
+- jieba
+- argparse
 
 ## [Corpus Data](https://github.com/scutcyr/GCR/blob/master/Corpus/README.md)
 - You can download the original [corpus data](https://github.com/scutcyr/GCR/blob/master/Corpus/README.md) from url:https://pan.baidu.com/s/1szmNZQrwh9y994uO8DFL_A 提取码：f2ex
