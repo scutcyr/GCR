@@ -1,6 +1,6 @@
 # [GCR](https://github.com/scutcyr/GCR)
 - Author: [Yirong Chen](https://scutcyr.github.io/)
-- This is the [SCUT](http://www.scut.edu.cn/) undergraduate graduation design project(华南理工大学本科毕业设计) of Yirong Chen(https://scutcyr.github.io/), advised by Prof. [Xiangmin Xu](http://dblp.uni-trier.de/pers/hc/x/Xu:Xiangmin) and Associate Prof. [Xiaofen Xing](https://dblp.uni-trier.de/pers/hd/x/Xing:Xiaofen).
+- This is the [SCUT](http://www.scut.edu.cn/) undergraduate graduation design project(华南理工大学本科毕业设计) of [Yirong Chen](https://scutcyr.github.io/), advised by Prof. [Xiangmin Xu](http://dblp.uni-trier.de/pers/hc/x/Xu:Xiangmin) and Associate Prof. [Xiaofen Xing](https://dblp.uni-trier.de/pers/hd/x/Xing:Xiaofen).
 ## What is GCR?
 GCR: Group Chat Robot.
 
