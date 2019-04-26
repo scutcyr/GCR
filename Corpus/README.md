@@ -1,7 +1,7 @@
 # Corpus
 
-Thanks for https://github.com/codemayq/chinese_chatbot_corpus
-You can use the code from https://github.com/codemayq/chinese_chatbot_corpus to process the original corpus.
+- Thanks for https://github.com/codemayq/chinese_chatbot_corpus
+- You can use the code from https://github.com/codemayq/chinese_chatbot_corpus to process the original corpus.
 ## 语料汇总
 下载语料 https://pan.baidu.com/s/1szmNZQrwh9y994uO8DFL_A  提取码：f2ex
 
